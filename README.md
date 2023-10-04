@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Syahir</h1>
-<h3 align="center">Syahir is an adaptable, easy to work as a team and detail-oriented information system student at president university. He possesses a strong passion for technology and developing skills for society. He has excellent communication, leadership skills, enabling him to effectively communicate and work with a wide range of people. He is a highly motivated student to develop skills and grow professionally.</h3>
+<h3>Syahir is an adaptable, easy to work as a team and detail-oriented information system student at President University. He possesses a strong passion for technology and developing skills for society. He has excellent communication, leadership skills, enabling him to effectively communicate and work with a wide range of people. He is a highly motivated student to develop skills and grow professionally.</h3>
 
 - 🔭 I’m currently Seeking Opportunity on **Quality Assurance Jobs**
 
