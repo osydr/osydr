@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syahir</h1>
 <h3>Syahir is an adaptable, easy to work as a team and detail-oriented information system student at President University. He possesses a strong passion for technology and developing skills for society. He has excellent communication, leadership skills, enabling him to effectively communicate and work with a wide range of people. He is a highly motivated student to develop skills and grow professionally.</h3>
 
+<img align="right" alt"bio" width"400" src"https://media.licdn.com/dms/image/D5635AQGo0MufuIuQeg/profile-framedphoto-shrink_200_200/0/1679935509132?e=1697022000&v=beta&t=SGZVBAEqZECzq4bKKse3FP0s3Xf0Xl4Fvsz2bMAWi8E">
+
+
 - 🔭 I’m currently Seeking Opportunity on **Quality Assurance Jobs**
 
 - 🌱 I’m currently learning **Cypress, Appium, JMeter, and K6**
