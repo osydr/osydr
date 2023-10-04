@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Syahir</h1>
-<h3 align="center">an adaptable, easy to work as a team and detail-oriented information system student at president university.</h3>
+<h3 align="center">Syahir is an adaptable, easy to work as a team and detail-oriented information system student at president university. He possesses a strong passion for technology and developing skills for society. He has excellent communication, leadership skills, enabling him to effectively communicate and work with a wide range of people. He is a highly motivated student to develop skills and grow professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osydr&label=Profile%20views&color=0e75b6&style=flat" alt="osydr" /> </p>
 
